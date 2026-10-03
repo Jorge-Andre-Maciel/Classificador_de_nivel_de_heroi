@@ -31,6 +31,6 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 
-Sobre o projeto
+## Sobre o projeto
 O projeto faz parte da minha jornada de aprendizado em programação e será utilizado como parte do meu portfólio no GitHub.
 Fiz umas alterações no codigo proposto porque se o xp fosse igual a 1000 como estava no enunciado (xp<1000), o codigo não iria mostrar nada, então coloquei (xp<=1000) e para simplificar o intervalo de (xp >= 1001 && xp <= 2000), deixei só (xp <=2000) e fiz isso para os demais, deixando mais limpo.
