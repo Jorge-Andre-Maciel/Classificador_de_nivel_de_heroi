@@ -34,7 +34,7 @@ XP entre 9.001 e 10.000 = Imortal
 
 XP maior ou igual a 10.001 = Radiante
 
-## Saida
+## Saída
 Ao final, deve ser exibida uma mensagem:
 
 O Herói de nome {nome} esta no nível de {nivel}
@@ -69,4 +69,4 @@ xp <= 2000
 
 Isso funciona porque as condições sãoo verificadas em sequencia. Se o programa chegar ao else if (xp <= 2000), significa que a condição anterior (xp <= 1000) ja foi considerada falsa.
 
-Fiz a mesma simplificaçãoo nas demais faixas, deixando o codigo mais limpo, simples e fácil de entender.
+Fiz a mesma simplificação nas demais faixas, deixando o codigo mais limpo, simples e fácil de entender.
