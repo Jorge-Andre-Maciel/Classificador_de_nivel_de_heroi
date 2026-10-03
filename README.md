@@ -34,7 +34,7 @@ XP entre 9.001 e 10.000 = Imortal
 
 XP maior ou igual a 10.001 = Radiante
 
-## Saída
+## Saida
 Ao final, deve ser exibida uma mensagem:
 
 O Herói de nome {nome} esta no nível de {nivel}
