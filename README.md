@@ -1,11 +1,11 @@
-Classificador de Nivel de Heroi
+## Classificador de Nivel de Heroi
 Este e o primeiro desafio de projeto do curso de Logica de Programacao da DIO.
 
-Nome do desafio: Classificador de Nivel de Heroi
+## Nome do desafio: Classificador de Nivel de Heroi
 
-Instrucoes para entrega
+## Instrucoes para entrega
 1. Desafio: Classificador de Nivel de Heroi
-O que deve ser utilizado
+## O que deve ser utilizado
 Variaveis
 
 Operadores
@@ -14,10 +14,10 @@ Lacos de repeticao
 
 Estruturas de decisao
 
-Objetivo
+## Objetivo
 Criar uma variavel para armazenar o nome e a quantidade de experiencia (XP) de um heroi. Depois, utilizar uma estrutura de decisao para apresentar o nivel correspondente a quantidade de XP.
 
-Classificacao
+## Classificacao
 XP menor ou igual a 1.000 = Ferro
 
 XP entre 1.001 e 2.000 = Bronze
@@ -34,17 +34,17 @@ XP entre 9.001 e 10.000 = Imortal
 
 XP maior ou igual a 10.001 = Radiante
 
-Saida
+## Saida
 Ao final, deve ser exibida uma mensagem:
 
 O Heroi de nome {nome} esta no nivel de {nivel}
 
-Exemplo
+## Exemplo
 Neste projeto, o heroi utilizado e o Pikachu, com 7.500 XP.
 
 O Heroi de nome Pikachu esta no nivel de Platina
 
-Sobre o projeto
+## Sobre o projeto
 O projeto faz parte da minha jornada de aprendizado em programacao e sera utilizado como parte do meu portfolio no GitHub.
 
 Durante o desenvolvimento, fiz algumas alteracoes no codigo proposto no desafio.
