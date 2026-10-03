@@ -33,4 +33,27 @@ Ao final deve se exibir uma mensagem:
 
 ## Sobre o projeto
 O projeto faz parte da minha jornada de aprendizado em programação e será utilizado como parte do meu portfólio no GitHub.
-Fiz umas alterações no codigo proposto porque se o xp fosse igual a 1000 como estava no enunciado (xp<1000), o codigo não iria mostrar nada, então coloquei (xp<=1000) e para simplificar o intervalo de (xp >= 1001 && xp <= 2000), deixei só (xp <=2000) e fiz isso para os demais, deixando mais limpo.
+
+Durante o desenvolvimento, fiz algumas alterações no código proposto no desafio.
+
+Uma das alterações foi na primeira condição. No enunciado original, a condição apresentada é:
+
+xp < 1000
+
+Porém, dessa forma, caso o XP fosse exatamente 1.000, o herói não seria classificado em nenhum nível, pois a próxima faixa começa em 1.001.
+
+Para corrigir essa situação, utilizei:
+
+xp <= 1000
+
+Também simplifiquei as demais condições. Por exemplo, em vez de utilizar:
+
+xp >= 1001 && xp <= 2000
+
+utilizei apenas:
+
+xp <= 2000
+
+Isso funciona porque as condições são verificadas em sequência. Se o programa chegar ao else if (xp <= 2000), significa que a condição anterior (xp <= 1000) já foi considerada falsa.
+
+Fiz a mesma simplificação nas demais faixas, deixando o código mais limpo, simples e fácil de entender.
