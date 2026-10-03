@@ -1,5 +1,5 @@
-## Classificador de Nivel de Heroi
-Este e o primeiro desafio de projeto do curso de Logica de Programacao da DIO.
+## Classificador de Nível de Herói
+Este e o primeiro desafio de projeto do curso de Logica de Programação da DIO.
 
 ## Nome do desafio: Classificador de Nivel de Heroi
 
